@@ -11,13 +11,13 @@
 Clonar repositorio
 
 ```bash
-  git clone https://github.com/isaul19/fresh_coffe_front.git
+  git clone https://github.com/isaul19/fresh_coffe_backend.git
 ```
 
 Dirigirse al directorio
 
 ```bash
-  cd ./fresh_coffe_front
+  cd ./fresh_coffe_backend
 ```
 
 Instalar dependencias
